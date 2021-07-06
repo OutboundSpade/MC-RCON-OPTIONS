@@ -1,5 +1,4 @@
 ```
-
 advancement (grant|revoke)
 
 attribute <target> <attribute> (get|base|modifier)
@@ -147,5 +146,4 @@ setidletimeout <minutes>
 stop
 
 whitelist (on|off|list|add|remove|reload)
-
 ```
